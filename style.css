@@ -1,6 +1,8 @@
-body{
+.imagem{
     background:url('img.jpg');
     background-repeat:no-repeat;
+    background-size:cover;
+    height:500px;
 }
 h1{
     color:white;
@@ -19,7 +21,7 @@ p{
 .contato{
     text-align: center;
     background-image:url('img2.jpg');
-    width:400px;
+    background-size:cover;
     height:400px;
     color:white;
 }
